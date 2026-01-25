@@ -113,7 +113,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.2 }}
                       className="text-2xl text-pink-300"
                     >
-                      Ye Rose kabhi nhi murjhayega.🌹
+                      Make a wish & cut it.🌹
                     </motion.p>
 
                     <motion.p
@@ -122,7 +122,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.4 }}
                       className="text-lg text-purple-200"
                     >
-                      While you cut your birthday cake today 🎂<br />
+                      While you cut your birthday cake 🎂<br />
                       Imagine my hands over yours, guiding the knife, wishing silently that every slice of life ahead of you is filled with happiness, peace, and love.💕<br /><br />
                       I may not be there physically, but every candle you blow carries my prayers for you.😌
                     </motion.p>
