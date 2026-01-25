@@ -32,7 +32,7 @@ export default function DiaryPage({ setCurrentPage }) {
           transition={{ duration: 1, delay: 0.5 }}
           className="text-center"
         >
-          <h1 className="text-3xl text-pink-300 mb-8 leading-relaxed">I'm sorry Ritu....😞</h1>
+          <h1 className="text-3xl text-pink-300 mb-8 leading-relaxed">Happy Birthday My Love 🥳</h1>
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -53,7 +53,7 @@ export default function DiaryPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
           >
             <p className="text-purple-200 text-lg mb-8 leading-relaxed">
-              Main Ghanto baithe sirf tmhare baare main sochta rhta hu...!
+              No matter where life takes us, I am yours, today, tomorrow, and forever. You are my home, even when you’re far away. ❤️...!
             </p>
 
             <motion.button
