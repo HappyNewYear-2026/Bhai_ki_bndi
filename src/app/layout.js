@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "I'm Sorry Ritu...! ❤️‍🩹",
-  description: "I apologize...😿",
+  title: "Happy Birthday Sneha...! 💕",
+  description: "I love you 🌹",
 }
 
 export default function RootLayout({ children }) {
