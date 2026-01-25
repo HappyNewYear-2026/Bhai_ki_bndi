@@ -84,8 +84,8 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.3 }}
           className="text-pink-200 text-xl leading-relaxed"
         >
-          Ritu.........! 😿<br />
-          Mujhe meri glti ka ehassas hai..!
+          Sneha💕<br />
+          Distance can never weaken what I feel for you...!
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -93,9 +93,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.6 }}
           className="text-purple-200 text-xl leading-relaxed"
         >
-          Maine bahoot bhaar utha rkha h,
-          <br />
-          Kandho se jyada, Apne Dil mai..!❤️‍🩹
+          It only reminds me how real and strong our love is..!💞
         </motion.p>
       </motion.div>
 
