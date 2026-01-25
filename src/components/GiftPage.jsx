@@ -122,14 +122,9 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.4 }}
                       className="text-lg text-purple-200"
                     >
-                      thik wyse hi jysa mera tumhare ley pyar hai.  
-                      I promise ki tumhara Dil phir kabhi nhi dukhaunga... 💖  
-                      <br /><br />
-                      Kudko kabhi akela mtt samjhna  
-                      Ek bandar hai tumhare pass hmesha...  
-                      <br />
-                      Efforts krley, abb intezar krunga...<br />
-                      (shiddat se 💫)
+                      While you cut your birthday cake today,<br />
+                      Imagine my hands over yours, guiding the knife, wishing silently that every slice of life ahead of you is filled with happiness, peace, and love.💕<br /><br />
+                      I may not be there physically, but every candle you blow carries my prayers for you.😌
                     </motion.p>
 
                     <motion.p
@@ -138,8 +133,9 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-xl text-pink-200"
                     >
-                      Ritu...! 💕<br />
-                      Plz tm aana jrur...
+                      Happy Birthday...🎈<br />
+                      &<br />
+                      I Love You...!💕
                     </motion.p>
                   </motion.div>
                 )}
