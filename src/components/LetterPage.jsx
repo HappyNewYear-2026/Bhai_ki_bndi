@@ -21,8 +21,7 @@ export default function LetterPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
-          Main sarminda hu...🙉<br />
-          Ek glti meri acchai mitta to nhi skti na...🌙
+          On your birthday,<br /> I wish I could gift you the one thing...!🎁
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -130,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            Tum bahoot acchi ho, Mujhe proud hai apni Madam ji pr, Tu sahi, mai glt. 💔
+            If love could travel, mine would reach you before this message.😊
           </motion.p>
 
           <motion.p
@@ -139,13 +138,11 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            Kismat ne mujhse meri hrr pyari chiz cheni hai, Abb tubhi na mille to sikayat kaisi...❤️‍🩹<br />
-            Galti to sbse hoti h na, Tumhare iss 🙉 se bhi hogyi Ritu...!<br />
-            Tumhare Dil me jo acchai maine bnai hai usme, ek galti ki wajha se dag lgg gya..!<br />
-            Plzzz ritu,<br />
-            uss dag ko mitana,<br />
-            Mujhe ya meri acchai ko nhi.<br />
-            <br />
+            let my words remind you that my heart beats only for you.<br />
+            No distance is bigger than my promise, no time stronger than my love.<br />
+            Wherever you are, whatever happens,<br />
+            I am yours… always.<br />
+            Forever & ever & ever & ever & ever...♾️<br />
             Remember............!<br />
             You are my Everything..!🌍
           </motion.p>
@@ -155,7 +152,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            Dil ke bure nhi h yrr...💔
+            May god dreams becomes true..❣️
           </motion.p>
 
         </motion.div>
