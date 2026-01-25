@@ -96,7 +96,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-2xl text-pink-200 leading-relaxed"
         >
-          ___Mujhe or kuch nhi chahey___
+          __Close your eyes when you miss me__
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 15 }}
@@ -104,8 +104,10 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          Bss tum or tumhara sath...💕<br />
-          Forever & ever & ever...💞
+           ✨I’m there.✨<br />
+           💖Holding you.💖<br />
+           💞Choosing you.💞<br />
+           💗Forever.💗
         </motion.p>
       </motion.div>
 
