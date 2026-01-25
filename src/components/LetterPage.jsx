@@ -152,7 +152,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            May god dreams becomes true..❣️
+            May happiness follow you quietly, forever...❣️
           </motion.p>
 
         </motion.div>
