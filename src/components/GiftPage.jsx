@@ -3,7 +3,7 @@
 import { motion, AnimatePresence } from "framer-motion"
 import { useState } from "react"
 
-const WHATSAPP_NUMBER = "919155150110" // 🔁 replace with your WhatsApp number
+const WHATSAPP_NUMBER = "919798863888" // 🔁 replace with your WhatsApp number
 
 export default function GiftPage() {
   const [giftOpened, setGiftOpened] = useState(false)
@@ -81,7 +81,7 @@ export default function GiftPage() {
                     <motion.button
                       onClick={() =>
                         window.open(
-                          `https://wa.me/${WHATSAPP_NUMBER}?text=💖%20I%20saw%20this%20...Ashish 🥹`,
+                          `https://wa.me/${WHATSAPP_NUMBER}?text=💖%20I%20Love%20you%20II..! 💕🥹`,
                           "_blank"
                         )
                       }
@@ -122,7 +122,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.4 }}
                       className="text-lg text-purple-200"
                     >
-                      While you cut your birthday cake today,<br />
+                      While you cut your birthday cake today 🎂<br />
                       Imagine my hands over yours, guiding the knife, wishing silently that every slice of life ahead of you is filled with happiness, peace, and love.💕<br /><br />
                       I may not be there physically, but every candle you blow carries my prayers for you.😌
                     </motion.p>
