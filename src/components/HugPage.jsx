@@ -96,7 +96,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-2xl text-pink-200 leading-relaxed"
         >
-          __Close your eyes when you miss me__
+          _Close your eyes & Feel my love_
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 15 }}
